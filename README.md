@@ -3,7 +3,7 @@ This is the code for the ICLR 2023 paper "Chasing All-Round Graph Representation
 
 The code will be continuously re-organized.
 
-If this code is useful for you, please cite the paper:
+If this code is useful for you, please kindly cite the paper:
 ```
 @inproceedings{
 zhang2023chasing,
